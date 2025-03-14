@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afiladoo
-- 👀 I’m interested in React, NextJS and TypeScript
+- 👀 I’m interested in React, Remix and TypeScript
 - 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
